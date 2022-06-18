@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactSamuraiCours/static/css/main.cb369c11.css",
-    "main.js": "/reactSamuraiCours/static/js/main.27731454.js",
+    "main.js": "/reactSamuraiCours/static/js/main.697b9dfc.js",
     "index.html": "/reactSamuraiCours/index.html",
     "main.cb369c11.css.map": "/reactSamuraiCours/static/css/main.cb369c11.css.map",
-    "main.27731454.js.map": "/reactSamuraiCours/static/js/main.27731454.js.map"
+    "main.697b9dfc.js.map": "/reactSamuraiCours/static/js/main.697b9dfc.js.map"
   },
   "entrypoints": [
     "static/css/main.cb369c11.css",
-    "static/js/main.27731454.js"
+    "static/js/main.697b9dfc.js"
   ]
 }
